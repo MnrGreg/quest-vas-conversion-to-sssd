@@ -12,3 +12,6 @@
 - Extracts sudoroles (sudoCommand, sudoUser, SudoHost, sudoRunAsUser, sudoOption)
 - Constructs consolidate sudoRole object based on sudoUser
 - Writes sudoRoles back to target OU within ActiveDirectory
+
+#### See OpenFaas GPO Create function API for automating GPOs 
+https://github.com/MnrGreg/openfaas-gpo-create
